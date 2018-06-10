@@ -1,3 +1,5 @@
+#' httbl
+#'
 #' @import fiery
 #' @import routr
 #' @importFrom jsonlite toJSON
