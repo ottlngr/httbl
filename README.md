@@ -4,6 +4,13 @@ httbl
 
 The goal of httbl is to ...
 
+Installation
+------------
+
+``` r
+devtools::install_github("ottlngr/httbl")
+```
+
 Example
 -------
 
